@@ -1,5 +1,5 @@
 # InstaSimilar
-_InstaSimilar_ is a cross-platform iOS/Android native mobile app I built in React Native. I wanted to make a full stack Instagram-esque social media app featuring a more robust camera with traditional manual features.
+_InstaSimilar_ is a cross-platform iOS/Android native mobile app I built in React Native. I wanted to make a full stack Instagram-esque social media app featuring a more robust camera with cutting edge features such as facial recognition as well as traditional features such as manual focus and manual white balance.
 
 <img src="https://github.com/dvho/insta-similar/blob/master/instaClone-using-expo-02.gif">
 
@@ -12,13 +12,14 @@ _________________________
 #### Features
 - iOS/Android Native Mobile App
 - React Native
-- Robust Camera
+- Facial Recognition
+- Manual Camera Features
 - Expo SDK
-- Clone of Instagram
+- Full stack, similar to Instagram
 _________________________
 
 #### Motivation
-I wanted to build a full stack native app for both iOS and Android. React Native is the way to go for this. Also wanted to develop a failsafe Expo SDK configuration with Turbo360, which I was able to achieve by locking a specific Turbo360 version in the package.json. The goal was to make a full stack Instagram-esque social media app featuring a more robust camera with traditional manual features.
+I wanted to build a full stack native app for both iOS and Android. React Native is the way to go for this. Also wanted to develop a failsafe Expo SDK configuration with Turbo360, which I was able to achieve by locking a specific Turbo360 version in the package.json. The goal was to make a full stack Instagram-esque social media app featuring a more robust camera with cutting edge features such as facial recognition as well as traditional features such as manual focus and manual white balance.
 _________________________
 
 #### Notes
