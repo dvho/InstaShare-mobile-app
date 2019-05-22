@@ -1,7 +1,7 @@
 # InstaSimilar
 _InstaSimilar_ is a cross-platform iOS/Android native mobile app I built in React Native. I wanted to make a full stack Instagram-esque social media app featuring a more robust camera with traditional manual features.
 
-
+<img src="https://github.com/dvho/insta-similar/blob/master/instaClone-using-expo-02.gif">
 
 _________________________
 
