@@ -19,7 +19,7 @@ _________________________
 _________________________
 
 #### Motivation
-I wanted to build a full stack native app for both iOS and Android. React Native is the way to go for this. Also wanted to develop a failsafe Expo SDK configuration with Turbo360, which I was able to achieve by locking a specific Turbo360 version in the package.json. The goal was to make a full stack Instagram-esque social media app with a more robust camera with cutting edge features such as facial recognition as well as traditional features such as manual focus and manual white balance.
+I wanted to build a full stack native app for both iOS and Android. React Native is the way to go for this. Also wanted to develop a stable Expo SDK configuration with Turbo360, which I was able to achieve by locking a specific Turbo360 version in the package.json. The goal was to make a full stack Instagram-esque social media app with a more robust camera with cutting edge features such as facial recognition as well as traditional features such as manual focus and manual white balance.
 _________________________
 
 #### Notes
