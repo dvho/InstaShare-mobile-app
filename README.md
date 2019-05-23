@@ -1,12 +1,12 @@
-# InstaSimilar
-_InstaSimilar_ is a cross-platform iOS/Android native mobile app I built in React Native. I wanted to make a full stack Instagram-esque social media app with a more robust camera with cutting edge features such as facial recognition as well as traditional features such as manual focus and manual white balance.
+# InstaShare
+_InstaShare_ is a cross-platform iOS/Android native mobile app I built in React Native. I wanted to make a full stack Instagram-esque social media app with a more robust camera with cutting edge features such as facial recognition as well as traditional features such as manual focus and manual white balance.
 
 <img src="https://github.com/dvho/insta-similar/blob/master/instaClone-using-expo-02.gif">
 
 _________________________
 
 #### How to Use
-_InstaSimilar_ can be downloaded and deployed to either the Apple App Store or Google Play Store. For now I'm just leaving it here for all to see. Some of the features have been hardcoded for demonstration.
+_InstaShare_ can be downloaded and deployed to either the Apple App Store or Google Play Store. For now I'm just leaving it here for all to see. Some of the features have been hardcoded for demonstration.
 _________________________
 
 #### Features
@@ -23,7 +23,7 @@ I wanted to build a full stack native app for both iOS and Android. React Native
 _________________________
 
 #### Notes
-This backend of this project was built using Turbo 360. To learn more, click here: https://www.turbo360.co After cloning into repo, cd to project root directory and create a .env file. This file requires a TURBO_APP_ID and SESSION_SECRET keys:
+The backend of this project was built using Turbo 360. To learn more, click here: https://www.turbo360.co After cloning into repo, cd to project root directory and create a .env file. This file requires a TURBO_APP_ID and SESSION_SECRET keys:
 
 ```
 TURBO_ENV=dev
