@@ -6,7 +6,7 @@ _InstaShare_ is a cross-platform iOS/Android native mobile app I built in React 
 _________________________
 
 #### How to Use
-_InstaShare_ can be downloaded and deployed to either the Apple App Store or Google Play Store. For now I'm just leaving it here for all to see. Some of the features have been hardcoded for demonstration.
+_InstaShare_ can be downloaded and deployed to either the Apple App Store or Google Play Store. Obviously, doing so would incur patent infringement on the name, but I just wanted to show that essentially building Instagram from scratch could be done. For now I'm just leaving it here for all to see. Some of the features have been hardcoded for demonstration.
 _________________________
 
 #### Features
