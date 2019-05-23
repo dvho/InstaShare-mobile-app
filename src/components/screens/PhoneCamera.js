@@ -295,12 +295,18 @@ class PhoneCamera extends React.Component {
                           <TouchableOpacity
                             style={[styles.buttons]}
                             onPress={() => {
-                              this.setState({
-                                type: this.state.type === Camera.Constants.Type.back
-                                  ? Camera.Constants.Type.front
-                                  : Camera.Constants.Type.back,
-                              });
-                            }}>
+                                if (this.state.type === Camera.Constants.Type.back) {
+                                    this.setState({
+                                        type: Camera.Constants.Type.front,
+                                        faceDetecting: true
+                                    })
+                                } else if (this.state.type === Camera.Constants.Type.front) {
+                                    this.setState({
+                                        type: Camera.Constants.Type.back
+                                    })
+                                }
+                            }
+                        }>
                                 <Ionicons name="md-reverse-camera" size={56} color="red"/>
                           </TouchableOpacity>
 
