@@ -8,6 +8,7 @@ Left side of the gif features:
 2. Manual focus slider upon manual toggle
 3. Manual white balance
 4. Flash options and LED flashlight access from app
+5. Front facing camera with facial recognition 
 5. Facial recognition with rotating color IDs and variable color IDs for group photos
 
 Right side of the gif features:
