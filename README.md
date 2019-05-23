@@ -1,5 +1,18 @@
 # InstaShare
-_InstaShare_ is a cross-platform iOS/Android native mobile app I built in React Native. I wanted to make a full stack Instagram-esque social media app with a more robust camera with cutting edge features such as facial recognition as well as traditional features such as manual focus and manual white balance.
+_InstaShare_ is a cross-platform iOS/Android native mobile app I built in React Native. I wanted to make a full stack Instagram-esque social media app with a more robust camera with cutting edge features such as facial recognition as well as traditional features such as manual focus and manual white balance. In the animated gif below (wait for it to load...)
+
+Left side of the gif features:
+1. Zoom sider
+2. Manual focus slider upon manual toggle
+3. Manual white balance
+4. Flash options and LED flashlight access from app
+5. Facial recognition with rotating color IDs and variable color IDs for group photos
+
+Right side of the gif features:
+1. Login validation
+2. Liking photos
+3. Taking photo from app
+4. Populating photos to profile
 
 <img src="https://github.com/dvho/insta-similar/blob/master/instaClone-using-expo-02.gif">
 
