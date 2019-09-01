@@ -4,11 +4,11 @@ _InstaShare_ is a cross-platform iOS/Android native mobile app I built in React 
 <img src="https://github.com/dvho/insta-similar/blob/master/instaClone-using-expo-02.gif">
 
 Left side of the gif features:
-1. Zoom sider
+1. Zoom slider
 2. Manual focus slider upon manual toggle
 3. Manual white balance
 4. Flash options and LED flashlight access from app
-5. Front facing camera with facial recognition 
+5. Front facing camera with facial recognition
 5. Facial recognition with rotating color IDs and variable color IDs for group photos
 
 Right side of the gif features:
